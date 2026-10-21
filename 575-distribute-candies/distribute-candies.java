@@ -1,3 +1,5 @@
+//using hashset
+
 // class Solution {
 //     public int distributeCandies(int[] candyType) {
         
@@ -32,6 +34,7 @@
 // }
 
 
+//without hashset
 
 import java.util.Arrays;
 
